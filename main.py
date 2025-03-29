@@ -4,7 +4,6 @@ import os
 
 from dotenv import load_dotenv
 import streamlit as st
-from PIL import Image
 import pdf2image
 import google.generativeai as genai
 
